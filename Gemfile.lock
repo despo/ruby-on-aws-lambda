@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dogeify (1.1.0)
+      engtagger
+    engtagger (0.2.1)
+    rake (12.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (= 1.9.9)
+  dogeify
+  rake
