@@ -10,3 +10,4 @@ First, read more about [traveling ruby](http://phusion.github.io/traveling-ruby/
 Read more:
  - [Scripting languages for AWS Lambda. Running PHP, Ruby and Go](https://aws.amazon.com/blogs/compute/scripting-languages-for-aws-lambda-running-php-ruby-and-go/)
  - [Using Ruby with ActiveRecord in AWS Lambda](http://www.adomokos.com/2016/06/using-ruby-with-activerecord-in-aws.html)
+ - [Ruby on Lambda](https://github.com/lorennorman/ruby-on-lambda)
